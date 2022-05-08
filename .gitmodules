@@ -1,0 +1,3 @@
+[submodule "blogs"]
+	path = blogs
+	url = https://github.com/sanketghosh/hrittiks-blog

@@ -9,3 +9,5 @@
 - [Prometheus: As Simple As Possible](https://dev.to/kcdchennai/prometheus-as-simple-as-possible-2aog)
 - [The DevOps Roadmap: Containerization, Containers and why do you need them?](https://dev.to/hrittikhere/the-devops-roadmap-containerization-containers-and-why-do-you-need-them-350b)
 - [Helm: Package Manager for Kubernetes](https://dev.to/hrittikhere/helm-package-manager-for-k8s-58hp)
+- [GPT-J: GPT-3 Democratized](https://dzone.com/articles/gpt-j)
+- [How to Delete all Pods in a ReplicaSet](https://dzone.com/articles/how-to-delete-all-pods-in-replicaset)

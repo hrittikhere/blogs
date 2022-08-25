@@ -12,3 +12,4 @@
 - [Helm: Package Manager for Kubernetes](https://dev.to/hrittikhere/helm-package-manager-for-k8s-58hp)
 - [GPT-J: GPT-3 Democratized](https://dzone.com/articles/gpt-j)
 - [How to Delete all Pods in a ReplicaSet](https://dzone.com/articles/how-to-delete-all-pods-in-replicaset)
+- [Helm for Beginners with Portainer (DOK talk 114)](https://www.portainer.io/blog/helm-for-beginners-with-portainer-dok-talk-114)

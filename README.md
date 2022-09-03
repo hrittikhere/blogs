@@ -1,4 +1,6 @@
 ### Latest Blog Posts 📝
+- [Using Kubectl Logs / In-Depth Tutorial](https://www.containiq.com/post/kubectl-logs)
+- [Kubernetes Storage Classes / In-Depth Tutorial](https://www.containiq.com/post/kubernetes-storage-classes)
 - [How to SSH into a Docker container / Tailscale](https://tailscale.com/learn/ssh-into-docker-container/)
 - [Managing Your Hyperconverged Network with Harvester / SUSE ](https://www.suse.com/c/rancher_blog/managing-your-hyperconverged-network-with-harvester/)
 - [How to Deploy Postgres on Kubernetes](https://www.containiq.com/post/deploy-postgres-on-kubernetes)

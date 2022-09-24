@@ -1,4 +1,5 @@
 ### Latest Blog Posts 📝
+- [Start Deploying in 5 Minutes with a Delegate-first Approach‍ / Harness](https://www.harness.io/technical-blog/deploy-in-5-minutes-with-a-delegate-first-approach)
 - [15 Essential Linux Terminal Commands](https://earthly.dev/blog/ess-linux-term-cmd/)
 - [Using Kubectl Logs / In-Depth Tutorial](https://www.containiq.com/post/kubectl-logs)
 - [Kubernetes Storage Classes / In-Depth Tutorial](https://www.containiq.com/post/kubernetes-storage-classes)

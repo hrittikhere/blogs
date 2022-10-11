@@ -1,5 +1,6 @@
 ### Latest Blog Posts 📝
-- [Helm on Harness](https://www.harness.io/technical-blog/getting-started-with-helm)
+- [Introducing Delegate Installation via Helm / Harness](https://www.harness.io/technical-blog/delegate-installation-via-helm)
+- [Helm on Harness / Harness](https://www.harness.io/technical-blog/getting-started-with-helm)
 - [Top AWS Interview Questions / Exponent](https://blog.tryexponent.com/top-aws-interview-questions/)
 - [Start Deploying in 5 Minutes with a Delegate-first Approach‍ / Harness](https://www.harness.io/technical-blog/deploy-in-5-minutes-with-a-delegate-first-approach)
 - [15 Essential Linux Terminal Commands](https://earthly.dev/blog/ess-linux-term-cmd/)

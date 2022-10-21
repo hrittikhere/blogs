@@ -1,4 +1,5 @@
 ### Latest Blog Posts 📝
+
 - [Introducing Delegate Installation via Helm / Harness](https://www.harness.io/technical-blog/delegate-installation-via-helm)
 - [Helm on Harness / Harness](https://www.harness.io/technical-blog/getting-started-with-helm)
 - [Top AWS Interview Questions / Exponent](https://blog.tryexponent.com/top-aws-interview-questions/)

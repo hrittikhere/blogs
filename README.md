@@ -1,4 +1,6 @@
 ### Latest Blog Posts 📝
+_This page contains a non-exhaustive list of some of my blogs I am proud of:_
+
 
 - [Introducing Delegate Installation via Helm / Harness](https://www.harness.io/technical-blog/delegate-installation-via-helm)
 - [Helm on Harness / Harness](https://www.harness.io/technical-blog/getting-started-with-helm)

@@ -1,7 +1,7 @@
 ### Latest Blog Posts 📝
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
-
+- [Harness Software Delivery Foundation: How you can crack it? / dev.to ](https://dev.to/hrittikhere/software-delivery-foundation-how-you-can-crack-it-jfn)
 - [Introducing Delegate Installation via Helm / Harness](https://www.harness.io/technical-blog/delegate-installation-via-helm)
 - [Helm on Harness / Harness](https://www.harness.io/technical-blog/getting-started-with-helm)
 - [Top AWS Interview Questions / Exponent](https://blog.tryexponent.com/top-aws-interview-questions/)

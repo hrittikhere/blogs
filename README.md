@@ -23,3 +23,4 @@ _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 - [GPT-J: GPT-3 Democratized](https://dzone.com/articles/gpt-j)
 - [How to Delete all Pods in a ReplicaSet](https://dzone.com/articles/how-to-delete-all-pods-in-replicaset)
 - [Helm for Beginners with Portainer (DOK talk 114)](https://www.portainer.io/blog/helm-for-beginners-with-portainer-dok-talk-114)
+- [*CNCF*: My First KubeCon](https://www.cncf.io/blog/2021/07/23/scholarship-spotlight-my-first-kubecon-cloudnativecon-amazing-first-time-experience/)

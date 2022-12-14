@@ -11,6 +11,7 @@ _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 - [Using Kubectl Logs / In-Depth Tutorial](https://www.containiq.com/post/kubectl-logs)
 - [Kubernetes Storage Classes / In-Depth Tutorial](https://www.containiq.com/post/kubernetes-storage-classes)
 - [How to SSH into a Docker container / ***Tailscale***](https://tailscale.com/learn/ssh-into-docker-container/)
+- [How infrastructure as code improves DevOps / Tailscale](https://tailscale.com/learn/infrastructure-as-code/)
 - [Managing Your Hyperconverged Network with Harvester / ***SUSE*** ](https://www.suse.com/c/rancher_blog/managing-your-hyperconverged-network-with-harvester/)
 - [How to Deploy Postgres on Kubernetes](https://www.containiq.com/post/deploy-postgres-on-kubernetes)
 - [Kubernetes Taints and Tolerations / Ultimate Guide and Best Practices](https://www.containiq.com/post/kubernetes-taints-and-tolerations)

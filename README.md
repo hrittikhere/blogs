@@ -1,6 +1,7 @@
 ### Latest Blog Posts 📝
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
+- [Understanding Fuzz Testing in Go / ***JetBrains*** ](https://blog.jetbrains.com/go/2022/12/14/understanding-fuzz-testing-in-go/)
 - [Harness Software Delivery Foundation: How you can crack it? / dev.to ](https://dev.to/hrittikhere/software-delivery-foundation-how-you-can-crack-it-jfn)
 - [Introducing Delegate Installation via Helm / Harness](https://www.harness.io/technical-blog/delegate-installation-via-helm)
 - [Helm on Harness / Harness](https://www.harness.io/technical-blog/getting-started-with-helm)
@@ -9,8 +10,8 @@ _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 - [15 Essential Linux Terminal Commands](https://earthly.dev/blog/ess-linux-term-cmd/)
 - [Using Kubectl Logs / In-Depth Tutorial](https://www.containiq.com/post/kubectl-logs)
 - [Kubernetes Storage Classes / In-Depth Tutorial](https://www.containiq.com/post/kubernetes-storage-classes)
-- [How to SSH into a Docker container / Tailscale](https://tailscale.com/learn/ssh-into-docker-container/)
-- [Managing Your Hyperconverged Network with Harvester / SUSE ](https://www.suse.com/c/rancher_blog/managing-your-hyperconverged-network-with-harvester/)
+- [How to SSH into a Docker container / ***Tailscale***](https://tailscale.com/learn/ssh-into-docker-container/)
+- [Managing Your Hyperconverged Network with Harvester / ***SUSE*** ](https://www.suse.com/c/rancher_blog/managing-your-hyperconverged-network-with-harvester/)
 - [How to Deploy Postgres on Kubernetes](https://www.containiq.com/post/deploy-postgres-on-kubernetes)
 - [Kubernetes Taints and Tolerations / Ultimate Guide and Best Practices](https://www.containiq.com/post/kubernetes-taints-and-tolerations)
 - [Working With Kubernetes Objects / Cheat Sheet & Tutorial](https://www.containiq.com/post/kubernetes-objects)

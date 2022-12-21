@@ -1,4 +1,6 @@
 ### Latest Blog Posts 📝
+<a href="https://github.com/hrittikhere/blogs/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hrittikhere/blogs?color=2b9348"></a>
+
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
 - [Understanding Fuzz Testing in Go / ***JetBrains*** ](https://blog.jetbrains.com/go/2022/12/14/understanding-fuzz-testing-in-go/)

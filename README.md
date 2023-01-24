@@ -1,5 +1,5 @@
 ### Latest Blog Posts 📝
-<a href="https://github.com/hrittikhere/blogs/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hrittikhere/blogs?color=2b9348"></a>
+<a href="https://github.com/hrittikhere/blogs/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hrittikhere/blogs?color=2b9348"></a> My Certifications —> [Credly](https://www.credly.com/users/hrittikhere)
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 

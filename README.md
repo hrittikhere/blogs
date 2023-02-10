@@ -3,6 +3,7 @@
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
+- [How to use Kubernetes events for effective alerting and monitoring  / ***Grafana Labs***](https://grafana.com/blog/2023/01/23/how-to-use-kubernetes-events-for-effective-alerting-and-monitoring/)
 - [Profiling Go Code with GoLand / ***JetBrains*** ](https://blog.jetbrains.com/go/2023/02/02/profiling-go-code-with-goland/)
 - [Understanding Fuzz Testing in Go / ***JetBrains*** ](https://blog.jetbrains.com/go/2022/12/14/understanding-fuzz-testing-in-go/)
 - [How to SSH into a Docker container / ***Tailscale***](https://tailscale.com/learn/ssh-into-docker-container/)

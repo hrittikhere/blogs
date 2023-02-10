@@ -14,6 +14,7 @@ _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 - [Introducing Delegate Installation via Helm / Harness](https://www.harness.io/technical-blog/delegate-installation-via-helm)
 - [Start Deploying in 5 Minutes with a Delegate-first Approach‍ / Harness](https://www.harness.io/technical-blog/deploy-in-5-minutes-with-a-delegate-first-approach)
 - [Top AWS Interview Questions / Exponent](https://blog.tryexponent.com/top-aws-interview-questions/)
+- [Openshift vs. Kubernetes: Understanding Container Orchestration Options / ***Earthly*** ](https://earthly.dev/blog/openshift-vs-kubernetes/)
 - [15 Essential Linux Terminal Commands / ***Earthly*** ](https://earthly.dev/blog/ess-linux-term-cmd/)
 - [Using Kubectl Logs / In-Depth Tutorial](https://www.containiq.com/post/kubectl-logs)
 - [Kubernetes Storage Classes / In-Depth Tutorial](https://www.containiq.com/post/kubernetes-storage-classes)

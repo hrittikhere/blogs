@@ -35,4 +35,4 @@ _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
 
 
-If you'd like me to write for your publication, please feel free to [drop me a line.](https://www.linkedin.com/in/hrittikhere/)
+_If you'd like me to write for your publication, please feel free to [drop me a line.](https://www.linkedin.com/in/hrittikhere/)_

@@ -3,6 +3,7 @@
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
+- [GitOps + Kubernetes Explained  / Loft Labs ](https://loft.sh/blog/gitops-kubernetes-explained/)
 - [Getting started with monitoring - Traces / Fiberplane ](https://fiberplane.com/blog/getting-started-with-monitoring-traces)
 - [How to use Kubernetes events for effective alerting and monitoring  / ***CNCF***](https://www.cncf.io/blog/2023/03/13/how-to-use-kubernetes-events-for-effective-alerting-and-monitoring/)
 - [How to use Kubernetes events for effective alerting and monitoring  / ***Grafana Labs***](https://grafana.com/blog/2023/01/23/how-to-use-kubernetes-events-for-effective-alerting-and-monitoring/)

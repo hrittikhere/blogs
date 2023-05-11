@@ -3,6 +3,7 @@
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
+- [ GitOps + Kubernetes: Managing Kubernetes Secrets with Sealed Secrets / Loft Labs ](https://loft.sh/blog/gitops-kubernetes-managing-kubernetes-secrets/)
 - [Kubernetes Management Tools for Bare Metal Deployments / ***Equinix***](https://deploy.equinix.com/blog/kubernetes-management-tools-for-bare-metal-deployments/)
 - [GitOps + Kubernetes Explained  / Loft Labs ](https://loft.sh/blog/gitops-kubernetes-explained/)
 - [Getting started with monitoring - Traces / Fiberplane ](https://fiberplane.com/blog/getting-started-with-monitoring-traces)

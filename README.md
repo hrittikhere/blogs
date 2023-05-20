@@ -4,7 +4,6 @@
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
 - [Network, Namespace, and Cluster Isolation in Kubernetes / Loft Labs](https://loft.sh/blog/achieving-network-namespace-and-cluster-isolation-in-kubernetes-part-1/)
-- [https://loft.sh/blog/our-10-favorite-open-source-projects-from-the-cncf-landscape / Loft Labs](https://loft.sh/blog/our-10-favorite-open-source-projects-from-the-cncf-landscape/)
 - [ GitOps + Kubernetes: Managing Kubernetes Secrets with Sealed Secrets / Loft Labs ](https://loft.sh/blog/gitops-kubernetes-managing-kubernetes-secrets/)
 - [Kubernetes Management Tools for Bare Metal Deployments / ***Equinix***](https://deploy.equinix.com/blog/kubernetes-management-tools-for-bare-metal-deployments/)
 - [GitOps + Kubernetes Explained  / Loft Labs ](https://loft.sh/blog/gitops-kubernetes-explained/)
@@ -17,6 +16,7 @@ _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 - [How infrastructure as code improves DevOps / Tailscale](https://tailscale.com/learn/infrastructure-as-code/)
 - [Managing Your Hyperconverged Network with Harvester / ***SUSE*** ](https://www.suse.com/c/rancher_blog/managing-your-hyperconverged-network-with-harvester/)
 - [5 Ways to Access Kubernetes Clusters / ***Loft Labs*** ](https://loft.sh/blog/5-ways-to-access-kubernetes-clusters/)
+- [Our 10 Favorite Open Source Projects from the CNCF Landscape / Loft Labs](https://loft.sh/blog/our-10-favorite-open-source-projects-from-the-cncf-landscape/)
 - [Harness Software Delivery Foundation: How you can crack it? / dev.to ](https://dev.to/hrittikhere/software-delivery-foundation-how-you-can-crack-it-jfn)
 - [How to Set Up Helm Rollbacks in Harness / ***Harness***](https://harness.io/blog/how-set-up-helm-rollbacks-harness)
 - [Helm on Harness / Harness](https://www.harness.io/technical-blog/getting-started-with-helm)

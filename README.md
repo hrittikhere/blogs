@@ -3,6 +3,8 @@
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
+- [Network, Namespace, and Cluster Isolation in Kubernetes / Loft Labs](https://loft.sh/blog/achieving-network-namespace-and-cluster-isolation-in-kubernetes-part-1/)
+- [https://loft.sh/blog/our-10-favorite-open-source-projects-from-the-cncf-landscape / Loft Labs](https://loft.sh/blog/our-10-favorite-open-source-projects-from-the-cncf-landscape/)
 - [ GitOps + Kubernetes: Managing Kubernetes Secrets with Sealed Secrets / Loft Labs ](https://loft.sh/blog/gitops-kubernetes-managing-kubernetes-secrets/)
 - [Kubernetes Management Tools for Bare Metal Deployments / ***Equinix***](https://deploy.equinix.com/blog/kubernetes-management-tools-for-bare-metal-deployments/)
 - [GitOps + Kubernetes Explained  / Loft Labs ](https://loft.sh/blog/gitops-kubernetes-explained/)

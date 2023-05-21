@@ -1,5 +1,5 @@
 ### Latest Blog Posts 📝
-![https://www.cncf.io/people/ambassadors/?p=hrittik-roy](https://sessionize.com/Assets/speaker-certificate/cncfambassador.png)
+<a href="https://www.cncf.io/people/ambassadors/?p=hrittik-roy"><img alt="CNCF Ambassador" src="https://sessionize.com/Assets/speaker-certificate/cncfambassador.png"></a>
 My Certifications —> [Credly](https://www.credly.com/users/hrittikhere)
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_

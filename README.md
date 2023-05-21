@@ -1,5 +1,6 @@
 ### Latest Blog Posts 📝
-<a href="https://github.com/hrittikhere/blogs/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hrittikhere/blogs?color=2b9348"></a> My Certifications —> [Credly](https://www.credly.com/users/hrittikhere)
+![https://www.cncf.io/people/ambassadors/?p=hrittik-roy](https://sessionize.com/Assets/speaker-certificate/cncfambassador.png)
+My Certifications —> [Credly](https://www.credly.com/users/hrittikhere)
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 

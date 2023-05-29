@@ -4,6 +4,7 @@ My Certifications —> [Credly](https://www.credly.com/users/hrittikhere)
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
+- [Comparison of NATS, RabbitMQ, NSQ, and Kafka](https://gcore.com/blog/nats-rabbitmq-nsq-kafka-comparison/)
 - [So You Want to Run Kubernetes On Bare Metal / ***Equinix***](https://deploy.equinix.com/blog/guide-to-running-kubernetes-on-bare-metal/)
 - [Network, Namespace, and Cluster Isolation in Kubernetes / Loft Labs](https://loft.sh/blog/achieving-network-namespace-and-cluster-isolation-in-kubernetes-part-1/)
 - [ GitOps + Kubernetes: Managing Kubernetes Secrets with Sealed Secrets / Loft Labs ](https://loft.sh/blog/gitops-kubernetes-managing-kubernetes-secrets/)

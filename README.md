@@ -4,7 +4,7 @@ My Certifications —> [Credly](https://www.credly.com/users/hrittikhere)
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
-- [Scaling to Meet Demand: Understanding the Role of Cluster Autoscaler in Kubernetes](https://deploy.equinix.com/blog/understanding-role-cluster-autoscaler-kubernetes/)
+- [Scaling to Meet Demand: Understanding the Role of Cluster Autoscaler in Kubernetes / ***Equinix***](https://deploy.equinix.com/blog/understanding-role-cluster-autoscaler-kubernetes/)
 - [Comparison of NATS, RabbitMQ, NSQ, and Kafka](https://gcore.com/learning/nats-rabbitmq-nsq-kafka-comparison/)
 - [So You Want to Run Kubernetes On Bare Metal / ***Equinix***](https://deploy.equinix.com/blog/guide-to-running-kubernetes-on-bare-metal/)
 - [Network, Namespace, and Cluster Isolation in Kubernetes / Loft Labs](https://loft.sh/blog/achieving-network-namespace-and-cluster-isolation-in-kubernetes-part-1/)

@@ -4,6 +4,7 @@ My Certifications —> [Credly](https://www.credly.com/users/hrittikhere)
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
+- [What You Need to Know About Kubernetes Disaster Recovery](https://deploy.equinix.com/blog/guide-kubernetes-disaster-recovery/)
 - [Securing a Harbor Container Registry with TUF and Cosign](https://loft.sh/blog/securing-a-harbor-container-registry-with-tuf-and-cosign/)
 - [How Solutions Like Chainguard Help Container Image Security](https://loft.sh/blog/how-solutions-like-chainguard-help-container-image-security/)
 - [Scaling to Meet Demand: Understanding the Role of Cluster Autoscaler in Kubernetes / ***Equinix***](https://deploy.equinix.com/blog/understanding-role-cluster-autoscaler-kubernetes/)

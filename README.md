@@ -4,6 +4,7 @@ My Certifications —> [Credly](https://www.credly.com/users/hrittikhere)
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
+- [Building Robust CI/CD Systems on Cloudy Bare Metal / ***Equinix***](https://deploy.equinix.com/blog/build-robust-ci-hosting-infrastructure-on-cloudy-bare-metal/)
 - [Efficient Kubernetes Cluster Management: Building Infrastructure-Agnostic Clusters with Cluster API / SUSE ](https://www.suse.com/c/rancher_blog/kubernetes-cluster-management-building-infrastructure-agnostic-clusters-with-cluster-api/)
 - [What You Need to Know About Kubernetes Disaster Recovery](https://deploy.equinix.com/blog/guide-kubernetes-disaster-recovery/)
 - [Securing a Harbor Container Registry with TUF and Cosign](https://loft.sh/blog/securing-a-harbor-container-registry-with-tuf-and-cosign/)

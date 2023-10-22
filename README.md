@@ -4,6 +4,7 @@ My Certifications —> [Credly](https://www.credly.com/users/hrittikhere)
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 
+- [Signing container images: Comparing Sigstore, Notary, and Docker Content Trust / Synk ](https://snyk.io/blog/signing-container-images/)
 - [How to Standardize Your Development Environment with devcontainer.json](https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/)
 - [Building Robust CI/CD Systems on Cloudy Bare Metal / ***Equinix***](https://deploy.equinix.com/blog/build-robust-ci-hosting-infrastructure-on-cloudy-bare-metal/)
 - [Efficient Kubernetes Cluster Management: Building Infrastructure-Agnostic Clusters with Cluster API / SUSE ](https://www.suse.com/c/rancher_blog/kubernetes-cluster-management-building-infrastructure-agnostic-clusters-with-cluster-api/)

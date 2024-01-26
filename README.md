@@ -18,6 +18,7 @@ _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 - [ GitOps + Kubernetes: Managing Kubernetes Secrets with Sealed Secrets / Loft Labs ](https://loft.sh/blog/gitops-kubernetes-managing-kubernetes-secrets/)
 - [Kubernetes Management Tools for Bare Metal Deployments / ***Equinix***](https://deploy.equinix.com/blog/kubernetes-management-tools-for-bare-metal-deployments/)
 - [GitOps + Kubernetes Explained  / Loft Labs ](https://loft.sh/blog/gitops-kubernetes-explained/)
+- [What's so bad about sidecars, anyway?](https://cerbos.dev/blog/whats-so-bad-about-sidecars-anyway)
 - [Getting started with monitoring - Traces / Fiberplane ](https://fiberplane.com/blog/getting-started-with-monitoring-traces)
 - [How to use Kubernetes events for effective alerting and monitoring  / ***CNCF***](https://www.cncf.io/blog/2023/03/13/how-to-use-kubernetes-events-for-effective-alerting-and-monitoring/)
 - [How to use Kubernetes events for effective alerting and monitoring  / ***Grafana Labs***](https://grafana.com/blog/2023/01/23/how-to-use-kubernetes-events-for-effective-alerting-and-monitoring/)

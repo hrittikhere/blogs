@@ -3,6 +3,9 @@
 My Certifications —> [Credly](https://www.credly.com/users/hrittikhere)
 
 _This page contains a non-exhaustive list of some of my blogs I am proud of:_
+- [Syncing Ingress Resources with vCluster on GKE: A Step-by-Step Guide](https://www.loft.sh/blog/syncing-ingress-vcluster)
+- [Using Cursor IDE with DevPod](https://www.loft.sh/blog/cursor-with-devpod)
+- [How to Standardize Your Development Environment with devcontainer.json](https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/)
 - [The Tools for Controlling Cloud Cost and Their Limits](https://deploy.equinix.com/blog/ways-to-reduce-cloud-hosting-costs-and-their-limits/)
 - [Signing container images: Comparing Sigstore, Notary, and Docker Content Trust / Synk ](https://snyk.io/blog/signing-container-images/)
 - [How to Standardize Your Development Environment with devcontainer.json](https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/)
@@ -53,5 +56,7 @@ _This page contains a non-exhaustive list of some of my blogs I am proud of:_
 - [**CNCF**: My First KubeCon](https://www.cncf.io/blog/2021/07/23/scholarship-spotlight-my-first-kubecon-cloudnativecon-amazing-first-time-experience/)
 
 
+
+Note: Some links might be broken. Waybackmachine is the way to go :) 
 
 _If you'd like me to write for your publication, please feel free to [drop me a line.](https://www.linkedin.com/in/hrittikhere/)_

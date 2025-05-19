@@ -25,12 +25,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
-        uses: actions/configure-pages@v1
-      - name: Build with Jekyll
+        uses: actions/configure-pages@v5
+      - name: Build
         uses: actions/jekyll-build-pages@v1
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           source: ./
           destination: ./_site
@@ -47,4 +50,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
